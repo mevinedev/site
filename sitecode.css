@@ -1,0 +1,8 @@
+/*setting background properties of the site or webpage*/
+body {
+    color:white ;
+    background-color: #61122f;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     
+}
